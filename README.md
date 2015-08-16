@@ -2,51 +2,80 @@
 
 ## Foundations
 
-* [OPEN CONTAINER INITIATIVE](https://www.opencontainers.org/)
-* [Cloud Native Computing Foundation](https://cncf.io/)
+* [OPEN CONTAINER INITIATIVE](https://www.opencontainers.org/)  
+The Open Container Initiative is a lightweight, open governance structure, to be formed under the auspices of the Linux Foundation, for the express purpose of creating open industry standards around container formats and runtime.
+* [Cloud Native Computing Foundation](https://cncf.io/)  
+The Cloud Native Computing Foundation will create and drive the adoption of a new set of common container technologies informed by technical merit and end user value, and inspired by Internet-scale computing.
 
 ## Specifications
 
-* [Open Container Specifications](https://github.com/opencontainers/specs)
-* [App Container basics](https://github.com/coreos/rkt/blob/master/Documentation/app-container.md)
+* [Open Container Specifications](https://github.com/opencontainers/specs)  
+This project is where the Open Container Initiative Specifications are written. This is a work in progress. 
+* [App Container basics](https://github.com/coreos/rkt/blob/master/Documentation/app-container.md)  
+App Container (appc) is an open specification that defines several aspects of how to run applications in containers: an image format, runtime environment, and discovery protocol.
 
 ## Clouds
 
-* [Developer Cloud Platform](https://www.dotcloud.com/)
-* [Google Cloud Platform](https://cloud.google.com/container-engine/)
-* [Mesosphere](https://mesosphere.com/)
-* [Kubernetes](http://kubernetes.io/)
+* [Developer Cloud Platform](https://www.dotcloud.com/)  
+PaaS from Docker creators.
+* [Google Cloud Platform](https://cloud.google.com/container-engine/)  
+Run Docker containers on Google Cloud Platform, powered by Kubernetes. Google Container Engine actively schedules your containers, based on declared needs, on a managed cluster of virtual machines. 
+* [Mesosphere](https://mesosphere.com/)  
+The Mesosphere Datacenter Operating System (DCOS) is a new kind of operating system that spans all of the machines in your datacenter or cloud. It provides a highly elastic, and highly scalable way of deploying applications, services and big data infrastructure on shared resources.
+* [Kubernetes](http://kubernetes.io/)  
+Manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops. 
 
 ## Hypervisors
 
-* [Docker](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)
-* [LXD](https://github.com/lxc/lxd)
-* [OpenVZ](https://openvz.org/Main_Page)
+* [Docker](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)  
+An open platform for distributed applications for developers and sysadmins. *Standart de facto*.
+* [LXD](https://github.com/lxc/lxd)  
+Daemon based on liblxc offering a REST API to manage LXC containers.
+* [OpenVZ](https://openvz.org/Main_Page)  
+OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
 
 ## Containers
 
-* [runc](https://github.com/opencontainers/runc)
-* [Rocket](https://github.com/coreos/rkt)
-* [LXC](https://github.com/lxc/lxc)
-* [Vagga](https://github.com/tailhook/vagga)
-* [libct](https://github.com/xemul/libct)
-* [libvirt](https://libvirt.org/drvlxc.html)
+* [runc](https://github.com/opencontainers/runc)  
+runc is a CLI tool for spawning and running containers according to the OCS specification.
+* [Rocket](https://github.com/coreos/rkt)  
+rkt (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.
+* [LXC](https://github.com/lxc/lxc)  
+LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.
+* [Vagga](https://github.com/tailhook/vagga)  
+Vagga is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.
+* [libct](https://github.com/xemul/libct)  
+Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.
+* [libvirt](https://libvirt.org/drvlxc.html)  
+A big toolkit to interact with the virtualization capabilities of recent versions of Linux (and other OSes).
 
 ## Sandboxes
 
-* [Firejail](https://l3net.wordpress.com/projects/firejail/)
-* [NsJail](https://github.com/google/nsjail)
-* [Subuser](https://github.com/subuser-security/subuser)
-* [Snappy](https://wiki.ubuntu.com/SecurityTeam/Specifications/SnappyConfinement)
+* [Firejail](https://l3net.wordpress.com/projects/firejail/)  
+Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
+* [NsJail](https://github.com/google/nsjail)  
+NsJail is a process isolation tool for Linux. It makes use of the the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.
+* [Subuser](https://github.com/subuser-security/subuser)  
+Securing the Linux desktop with Docker.
+* [Snappy](https://wiki.ubuntu.com/SecurityTeam/Specifications/SnappyConfinement)  
+Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates - a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
+* [xdg-app](https://wiki.gnome.org/Projects/SandboxedApps)  
+xdg-app is a system for building, distributing and running sandboxed desktop applications on Linux.
 
 ## Partial Access
 
-* [nsenter](http://man7.org/linux/man-pages/man1/nsenter.1.html)
-* [ip-netns](http://man7.org/linux/man-pages/man8/ip-netns.8.html)
-* [unshare](http://man7.org/linux/man-pages/man2/unshare.2.html)
-* [python-nsenter](https://github.com/zalando/python-nsenter)
-* [butter](https://pypi.python.org/pypi/butter/0.10)
-* [pyspaces](https://github.com/Friz-zy/pyspaces)
+* [nsenter](http://man7.org/linux/man-pages/man1/nsenter.1.html)  
+Run program with namespaces of other processes. Part of the util-linux.
+* [ip-netns](http://man7.org/linux/man-pages/man8/ip-netns.8.html)  
+Process network namespace management. Part of the iproute2.
+* [unshare](http://man7.org/linux/man-pages/man1/unshare.1.html)  
+Run program with some namespaces unshared from parent. Part of the util-linux.
+* [python-nsenter](https://github.com/zalando/python-nsenter)  
+This Python package allows entering Linux kernel namespaces (mount, IPC, net, PID, user and UTS) by doing the "setns" syscall.
+* [butter](https://pypi.python.org/pypi/butter)  
+Python library to interface to low level linux features (inotify, fanotify, timerfd, signalfd, eventfd, containers) with asyncio support.
+* [pyspaces](https://github.com/Friz-zy/pyspaces)  
+Works with Linux namespaces through glibc with pure python.
 
 ## Security
 
@@ -62,8 +91,8 @@
 
 1) regular application
 
-* calways untrusted -> know it
-* csuid bit -> mount with nosuid
+* always untrusted -> know it
+* suid bit -> mount with nosuid
 * limit available syscall -> seccomp-bpf, grsec
 * leak to another container (bug in namespaces, filesystem) -> user namespaces with different uid inside for each cotainer: 1000 in container - 14293 and 15398 outside; security modules like selinux or apparmor
 
@@ -134,15 +163,15 @@ Sure, you're deploying seccomp, but you can't use selinux inside your container,
 [src](https://mjg59.dreamwidth.org/33170.html)
 
 Major kernel subsystems are not namespaced like:  
-SELinux  
-Cgroups  
-file systems under /sys  
-/proc/sys, /proc/sysrq-trigger, /proc/irq, /proc/bus
+- SELinux  
+- Cgroups  
+- file systems under /sys  
+- /proc/sys, /proc/sysrq-trigger, /proc/irq, /proc/bus
 
 Devices are not namespaced:  
-/dev/mem  
-/dev/sd* file system devices  
-kernel modules
+- /dev/mem  
+- /dev/sd* file system devices  
+- kernel modules
 
 If you can communicate or attack one of these as a privileged process, you can own the system.  
 [src](https://opensource.com/business/14/7/docker-security-selinux)
