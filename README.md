@@ -1,5 +1,19 @@
 # Awesome Linux Containers
 
+## Table of Contents
+
+* [Foundations](#foundations)
+* [Specifications](#specifications)
+* [Clouds](#clouds)
+* [Hypervisors](#hypervisors)
+* [Containers](#containers)
+* [Sandboxes](#sandboxes)
+* [Partial Access](#partial-access)
+* [Security](#security)
+  - [Links](#links)
+  - [Levels of security problems](#levels-of-security-problems)
+  - [Technologies for security](#technologies-for-security)
+
 ## Foundations
 
 * [OPEN CONTAINER INITIATIVE](https://www.opencontainers.org/)  
@@ -28,7 +42,7 @@ Manage a cluster of Linux containers as a single system to accelerate Dev and si
 ## Hypervisors
 
 * [Docker](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)  
-An open platform for distributed applications for developers and sysadmins. *Standart de facto*.
+An open platform for distributed applications for developers and sysadmins. **Standart de facto**.
 * [LXD](https://github.com/lxc/lxd)  
 Daemon based on liblxc offering a REST API to manage LXC containers.
 * [OpenVZ](https://openvz.org/Main_Page)  
@@ -87,7 +101,7 @@ Works with Linux namespaces through glibc with pure python.
 * [Linux Container Security](https://mjg59.dreamwidth.org/33170.html)
 * [Ask HN: Best Linux sandbox?](https://news.ycombinator.com/item?id=10030868)
 
-### levels of security problems
+### Levels of security problems
 
 1) regular application
 
@@ -149,7 +163,7 @@ Docker uses copy-on-write file systems. This means containers can use the same f
 [src](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security)  
 [src](https://opensource.com/business/14/9/security-for-docker)
 
-### software for security
+### Technologies for security
 
 Things are better. For example, most modern container technologies can make use of Linux's built-in security tools such as:  
 [AppArmor](http://wiki.apparmor.net/index.php/Main_Page), [SELinux](http://selinuxproject.org/page/Main_Page) and [Seccomp](http://man7.org/linux/man-pages/man2/seccomp.2.html) policies;  
