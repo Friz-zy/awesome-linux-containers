@@ -52,7 +52,7 @@
 
 ### Links
 * [Are Docker containers really secure?](https://opensource.com/business/14/7/docker-security-selinux)
-* [Bringing new security features to Docker]https://opensource.com/business/14/9/security-for-docker)
+* [Bringing new security features to Docker](https://opensource.com/business/14/9/security-for-docker)
 * [Docker, Linux Containers (LXC), and security](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security)
 * [For containers, security is problem #1](http://www.itworld.com/article/2920349/security/for-containers-security-is-problem-1.html)
 * [Linux Container Security](https://mjg59.dreamwidth.org/33170.html)
