@@ -21,7 +21,7 @@
 The Open Container Initiative is a lightweight, open governance structure, to be formed under the auspices of the Linux Foundation, for the express purpose of creating open industry standards around container formats and runtime.
 * [Cloud Native Computing Foundation](https://cncf.io/)  
 The Cloud Native Computing Foundation will create and drive the adoption of a new set of common container technologies informed by technical merit and end user value, and inspired by Internet-scale computing.
-* [Cloud Foundry Foundation](https://www.cloudfoundry.org/foundation/)
+* [Cloud Foundry Foundation](https://www.cloudfoundry.org/foundation/)  
 The Cloud is our foundry.
 
 ## Specifications
@@ -41,9 +41,9 @@ Run Docker containers on Google Cloud Platform, powered by Kubernetes. Google Co
 The Mesosphere Datacenter Operating System (DCOS) is a new kind of operating system that spans all of the machines in your datacenter or cloud. It provides a highly elastic, and highly scalable way of deploying applications, services and big data infrastructure on shared resources.
 * [Kubernetes](http://kubernetes.io/)  
 Manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops.
-* [Jelastic](http://jelastic.com/)
+* [Jelastic](http://jelastic.com/)  
 Unlimited PaaS and Container-Based IaaS in a Joint Cloud Solution for DevOps.
-* [Warden](https://github.com/cloudfoundry/warden)
+* [Warden](https://github.com/cloudfoundry/warden)  
 Manages isolated, ephemeral, and resource controlled environments. Part of Cloud Foundry - the open platform as a service project.
 
 
