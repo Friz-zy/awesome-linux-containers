@@ -53,11 +53,11 @@ Manages isolated, ephemeral, and resource controlled environments. Part of Cloud
 An open platform for distributed applications for developers and sysadmins. **Standart de facto**.
 * [LXD](https://github.com/lxc/lxd)  
 Daemon based on liblxc offering a REST API to manage LXC containers.
-* [OpenVZ](https://openvz.org/Main_Page)  
-OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
 
 ## Containers
 
+* [OpenVZ](https://openvz.org/Main_Page)  
+OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
 * [runc](https://github.com/opencontainers/runc)  
 runc is a CLI tool for spawning and running containers according to the OCS specification.
 * [Bocker](https://github.com/p8952/bocker)  
