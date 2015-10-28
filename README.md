@@ -30,6 +30,9 @@ The Cloud is our foundry.
 This project is where the Open Container Initiative Specifications are written. This is a work in progress. 
 * [App Container basics](https://github.com/coreos/rkt/blob/master/Documentation/app-container.md)  
 App Container (appc) is an open specification that defines several aspects of how to run applications in containers: an image format, runtime environment, and discovery protocol.
+* [Systemd Container Interface](https://wiki.freedesktop.org/www/Software/systemd/ContainerInterface/)  
+Systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system. If you write a container solution, please consider supporting the following interfaces.
+
 
 ## Clouds
 
@@ -72,6 +75,8 @@ Vagga is a fully-userspace container engine inspired by Vagrant and Docker, spec
 Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.
 * [libvirt](https://libvirt.org/drvlxc.html)  
 A big toolkit to interact with the virtualization capabilities of recent versions of Linux (and other OSes).
+* [systemd-nspawn](http://manpages.ubuntu.com/manpages/utopic/man1/systemd-nspawn.1.html)  
+Spawn a namespace container for debugging, testing and building. Part of [systemd](https://wiki.freedesktop.org/www/Software/systemd/).
 
 ## Sandboxes
 
