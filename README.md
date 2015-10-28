@@ -72,6 +72,9 @@ Vagga is a fully-userspace container engine inspired by Vagrant and Docker, spec
 Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.
 * [libvirt](https://libvirt.org/drvlxc.html)  
 A big toolkit to interact with the virtualization capabilities of recent versions of Linux (and other OSes).
+* [CRIU](https://criu.org/Main_Page)
+Checkpoint/Restore In Userspace is a software tool for Linux operating system. Using this tool, you can freeze a running application (or part of it) and checkpoint it to a hard drive as a collection of files. 
+CRIU integrated with Docker and LXC to implement Live migration of containers.
 
 ## Sandboxes
 
