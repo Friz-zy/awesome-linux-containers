@@ -53,11 +53,11 @@ Manages isolated, ephemeral, and resource controlled environments. Part of Cloud
 An open platform for distributed applications for developers and sysadmins. **Standart de facto**.
 * [LXD](https://github.com/lxc/lxd)  
 Daemon based on liblxc offering a REST API to manage LXC containers.
-* [OpenVZ](https://openvz.org/Main_Page)  
-OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
 
 ## Containers
 
+* [OpenVZ](https://openvz.org/Main_Page)  
+OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
 * [runc](https://github.com/opencontainers/runc)  
 runc is a CLI tool for spawning and running containers according to the OCS specification.
 * [Bocker](https://github.com/p8952/bocker)  
@@ -72,6 +72,9 @@ Vagga is a fully-userspace container engine inspired by Vagrant and Docker, spec
 Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.
 * [libvirt](https://libvirt.org/drvlxc.html)  
 A big toolkit to interact with the virtualization capabilities of recent versions of Linux (and other OSes).
+* [CRIU](https://criu.org/Main_Page)
+Checkpoint/Restore In Userspace is a software tool for Linux operating system. Using this tool, you can freeze a running application (or part of it) and checkpoint it to a hard drive as a collection of files. 
+CRIU integrated with Docker and LXC to implement Live migration of containers.
 
 ## Sandboxes
 
