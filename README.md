@@ -227,3 +227,5 @@ If you can communicate or attack one of these as a privileged process, you can o
 
 * [sysdig-container-ecosystem](https://github.com/draios/sysdig-container-ecosystem)  
 The ecosystem of awesome new technologies emerging around containers and microservices can be a little overwhelming, to say the least. We thought we might be able to help: welcome to the Container Ecosystem Project.
+* [doger.io](http://doger.io/)  
+This page is an attempt to document the ins and outs of containers on Linux. This is not just restricted to programmers looking to implement containers or use container like features in their own code but also Sysadmins and Users who want to get more of a handle on how containers work 'under the hood'. 
