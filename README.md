@@ -117,6 +117,8 @@ Works with Linux namespaces through glibc with pure python.
 The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 * [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers/)  
 Open Source Vulnerability Analysis for your Containers.
+* [bane](https://github.com/jfrazelle/bane)  
+Custom AppArmor profile generator for docker containers.
 
 ### Links
 * [CIS Security Benchmarks](https://benchmarks.cisecurity.org/about/)
