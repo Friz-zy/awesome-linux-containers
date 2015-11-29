@@ -108,6 +108,8 @@ This Python package allows entering Linux kernel namespaces (mount, IPC, net, PI
 Python library to interface to low level linux features (inotify, fanotify, timerfd, signalfd, eventfd, containers) with asyncio support.
 * [pyspaces](https://github.com/Friz-zy/pyspaces)  
 Works with Linux namespaces through glibc with pure python.
+* [CRIU](https://criu.org/Main_Page)  
+Checkpoint/Restore In Userspace is a software tool for Linux operating system. Using this tool, you can freeze a running application (or part of it) and checkpoint it to a hard drive as a collection of files. CRIU integrated with Docker and LXC to implement Live migration of containers.
 
 ## Security
 
