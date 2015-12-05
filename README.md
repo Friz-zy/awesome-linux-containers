@@ -51,6 +51,10 @@ Manage a cluster of Linux containers as a single system to accelerate Dev and si
 Unlimited PaaS and Container-Based IaaS in a Joint Cloud Solution for DevOps.
 * [Warden](https://github.com/cloudfoundry/warden)  
 Manages isolated, ephemeral, and resource controlled environments. Part of Cloud Foundry - the open platform as a service project.
+* [Amazon EC2 Container Service ](https://aws.amazon.com/ecs/)   
+Container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.
+* [Joyent](https://www.joyent.com/)  
+High-Performance Container-Native Infrastructure for Today's Demanding Real-Time Web and Mobile Applications.
 
 
 ## Hypervisors
