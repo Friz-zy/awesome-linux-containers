@@ -60,7 +60,7 @@ High-Performance Container-Native Infrastructure for Today's Demanding Real-Time
 ## Hypervisors
 
 * [Docker](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)  
-An open platform for distributed applications for developers and sysadmins. **Standart de facto**.
+An open platform for distributed applications for developers and sysadmins. **Standard de facto**.
 * [LXD](https://github.com/lxc/lxd)  
 Daemon based on liblxc offering a REST API to manage LXC containers.
 * [OpenVZ](https://openvz.org/Main_Page)  
@@ -90,7 +90,7 @@ Spawn a namespace container for debugging, testing and building. Part of [system
 * [Firejail](https://l3net.wordpress.com/projects/firejail/)  
 Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
 * [NsJail](https://github.com/google/nsjail)  
-NsJail is a process isolation tool for Linux. It makes use of the the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.
+NsJail is a process isolation tool for Linux. It makes use of the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.
 * [Subuser](https://github.com/subuser-security/subuser)  
 Securing the Linux desktop with Docker.
 * [Snappy](https://wiki.ubuntu.com/SecurityTeam/Specifications/SnappyConfinement)  
@@ -153,7 +153,7 @@ The OpenSCAP ecosystem provides multiple tools to assist administrators and audi
 * always untrusted -> know it
 * suid bit -> mount with nosuid
 * limit available syscall -> seccomp-bpf, grsec
-* leak to another container (bug in namespaces, filesystem) -> user namespaces with different uid inside for each cotainer: 1000 in container - 14293 and 15398 outside; security modules like selinux or apparmor
+* leak to another container (bug in namespaces, filesystem) -> user namespaces with different uid inside for each container: 1000 in container - 14293 and 15398 outside; security modules like selinux or apparmor
 
 2) system services like cron, ssh
 
@@ -193,12 +193,12 @@ Docker uses copy-on-write file systems. This means containers can use the same f
 
 3) system services like devices, network, filesystems
 
-* root -> more of services should work on host outside; isolate sensitive functions, run as non-privilaged context
-* full privilages -> isolate on kernel level
+* root -> more of services should work on host outside; isolate sensitive functions, run as non-privileged context
+* full privileges -> isolate on kernel level
 
 4) kernel drivers, network stack, security policies
 
-* absolute privilages -> run it in separate vm
+* absolute privileges -> run it in separate vm
 
 5) general like immutable infrastructure
 
