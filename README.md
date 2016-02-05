@@ -11,6 +11,7 @@
 * [Containers](#containers)
 * [Sandboxes](#sandboxes)
 * [Partial Access](#partial-access)
+* [Dashboard](#dashboard)
 * [Security](#security)
   - [Tools](#tools)
   - [Links](#links)
@@ -114,6 +115,11 @@ Python library to interface to low level linux features (inotify, fanotify, time
 Works with Linux namespaces through glibc with pure python.
 * [CRIU](https://criu.org/Main_Page)  
 Checkpoint/Restore In Userspace is a software tool for Linux operating system. Using this tool, you can freeze a running application (or part of it) and checkpoint it to a hard drive as a collection of files. CRIU integrated with Docker and LXC to implement Live migration of containers.
+
+## Dashboard
+
+* [LXC-Web-Panel](https://lxc-webpanel.github.io/)  
+Web panel for LXC on Ubuntu.
 
 ## Security
 
