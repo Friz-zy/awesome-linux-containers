@@ -98,6 +98,8 @@ Securing the Linux desktop with Docker.
 Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates - a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
 * [xdg-app](https://wiki.gnome.org/Projects/SandboxedApps)  
 xdg-app is a system for building, distributing and running sandboxed desktop applications on Linux.
+* [subuser](https://github.com/subuser-security/subuser)  
+Run programs on linux with selectively restricted permissions. Based on Docker.
 
 ## Partial Access
 
