@@ -85,6 +85,8 @@ Libct is a containers management library which provides convenient API for front
 A big toolkit to interact with the virtualization capabilities of recent versions of Linux (and other OSes).
 * [systemd-nspawn](http://manpages.ubuntu.com/manpages/utopic/man1/systemd-nspawn.1.html)  
 Spawn a namespace container for debugging, testing and building. Part of [systemd](https://wiki.freedesktop.org/www/Software/systemd/).
+* [porto](https://github.com/yandex/porto)  
+The main goal of Porto is to create a convenient, reliable interface over several Linux kernel mechanism such as cgroups, namespaces, mounts, networking etc.
 
 ## Sandboxes
 
