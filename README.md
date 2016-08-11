@@ -40,22 +40,24 @@ Systemd is a suite of basic building blocks for a Linux system. It provides a sy
 
 ## Clouds
 
+* [Amazon EC2 Container Service ](https://aws.amazon.com/ecs/)   
+Container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.
 * [Developer Cloud Platform](https://www.dotcloud.com/)  
 PaaS from Docker creators.
 * [Google Cloud Platform](https://cloud.google.com/container-engine/)  
 Run Docker containers on Google Cloud Platform, powered by Kubernetes. Google Container Engine actively schedules your containers, based on declared needs, on a managed cluster of virtual machines. 
-* [Mesosphere](https://mesosphere.com/)  
-The Mesosphere Datacenter Operating System (DCOS) is a new kind of operating system that spans all of the machines in your datacenter or cloud. It provides a highly elastic, and highly scalable way of deploying applications, services and big data infrastructure on shared resources.
-* [Kubernetes](http://kubernetes.io/)  
-Manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops.
 * [Jelastic](http://jelastic.com/)  
 Unlimited PaaS and Container-Based IaaS in a Joint Cloud Solution for DevOps.
-* [Warden](https://github.com/cloudfoundry/warden)  
-Manages isolated, ephemeral, and resource controlled environments. Part of Cloud Foundry - the open platform as a service project.
-* [Amazon EC2 Container Service ](https://aws.amazon.com/ecs/)   
-Container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.
 * [Joyent](https://www.joyent.com/)  
 High-Performance Container-Native Infrastructure for Today's Demanding Real-Time Web and Mobile Applications.
+* [Kubernetes](http://kubernetes.io/)  
+Manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops.
+* [Mesosphere](https://mesosphere.com/)  
+The Mesosphere Datacenter Operating System (DCOS) is a new kind of operating system that spans all of the machines in your datacenter or cloud. It provides a highly elastic, and highly scalable way of deploying applications, services and big data infrastructure on shared resources.
+* [OpenShift Origin](https://www.openshift.org/)
+OpenShift Origin is a distribution of [Kubernetes](http://kubernetes.io/) optimized for continuous application development and multi-tenant deployment. Origin adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.
+* [Warden](https://github.com/cloudfoundry/warden)  
+Manages isolated, ephemeral, and resource controlled environments. Part of Cloud Foundry - the open platform as a service project.
 
 
 ## Hypervisors
