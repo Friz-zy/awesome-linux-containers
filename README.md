@@ -7,11 +7,13 @@
 * [Foundations](#foundations)
 * [Specifications](#specifications)
 * [Clouds](#clouds)
+* [Operating Systems](#operating-systems)
 * [Hypervisors](#hypervisors)
 * [Containers](#containers)
 * [Sandboxes](#sandboxes)
 * [Partial Access](#partial-access)
 * [Dashboard](#dashboard)
+* [Best practices](#best-practices)
 * [Security](#security)
   - [Tools](#tools)
   - [Links](#links)
@@ -36,7 +38,8 @@ This project is where the Open Container Initiative Specifications are written. 
 App Container (appc) is an open specification that defines several aspects of how to run applications in containers: an image format, runtime environment, and discovery protocol.
 * [Systemd Container Interface](https://wiki.freedesktop.org/www/Software/systemd/ContainerInterface/)  
 Systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system. If you write a container solution, please consider supporting the following interfaces.
-
+* [Nulecule Specification](https://github.com/projectatomic/atomicapp/tree/master/docs/spec)  
+Nulecule defines a pattern and model for packaging complex multi-container applications and services, referencing all their dependencies, including orchestration metadata in a container image for building, deploying, monitoring, and active management.
 
 ## Clouds
 
@@ -60,7 +63,34 @@ OpenShift Origin is a distribution of [Kubernetes](http://kubernetes.io/) optimi
 Manages isolated, ephemeral, and resource controlled environments. Part of Cloud Foundry - the open platform as a service project.
 * [Virtuozzo DevOps](https://virtuozzo.com/products/DevOps/)  
 A platform, built on Virtuozzo containers, that can be easily run on top of any bare-metal or virtual servers in any public or private cloud, to automate, optimize, and accelerate internal IT and development processes.
+* [Rancher](http://rancher.com/)  
+Rancher is a complete, open source platform for deploying and managing containers in production. It includes commercially-supported distributions of Kubernetes, Mesos, and Docker Swarm, making it easy to run containerized applications on any infrastructure.
+* [Docker Swarm](https://docs.docker.com/swarm)  
+Docker Swarm is native clustering for Docker.
+* [Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/)  
+Azure Container Service optimizes the configuration of popular open source tools and technologies specifically for Azure.
+* [CIAO](https://clearlinux.org/documentation/ciao-cluster-setup.html#id1)
+ Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS.
 
+## Operating Systems
+* [CoreOs](https://coreos.com/)  
+A lightweight Linux operating system designed for clustered deployments providing automation, security, and scalability for your most critical applications.
+* [RancherOS](http://rancher.com/rancher-os/)  
+RancherOS is a tiny Linux distro that runs the entire OS as Docker containers.
+* [Project Atomic](http://www.projectatomic.io/)  
+Project Atomic provides the best platform for your Linux Docker Kubernetes (LDK) application stack. Use immutable infrastructure to deploy and scale your containerized applications.
+* [Snappy Ubuntu Core](https://www.ubuntu.com/cloud/snappy)  
+https://github.com/01org/cc-oci-runtimeSnappy Ubuntu Core is the perfect system for large-scale cloud container deployments, bringing transactional updates to the world’s favourite container platform.
+* [ResinOS](https://resinos.io/)  
+A host OS tailored for containers, designed for reliability, proven in production.
+* [Photon](https://github.com/vmware/photon)  
+Photon OS is a minimal Linux container host designed to have a small footprint and tuned for VMware platforms. Photon is intended to invite collaboration around running containerized and Linux applications in a virtualized environment.
+* [Clear Linux Project](https://clearlinux.org/documentation/gs_getting_started.html)  
+The Clear Linux Project for Intel Architecture is a distribution built for various Cloud use cases.
+* [CargOS](https://cargos.io/)  
+CargOS is a new lightweight, open source, platform for Docker hosts that aims for speed, manageability and security. Releases are built for 64-bit Intel/AMD CPUs.
+* [OSv](http://osv.io/)  
+OSv is the open source operating system designed for the cloud. Built from the ground up for effortless deployment and management, with superior performance.
 
 ## Hypervisors
 
@@ -91,6 +121,12 @@ A big toolkit to interact with the virtualization capabilities of recent version
 Spawn a namespace container for debugging, testing and building. Part of [systemd](https://wiki.freedesktop.org/www/Software/systemd/).
 * [porto](https://github.com/yandex/porto)  
 The main goal of Porto is to create a convenient, reliable interface over several Linux kernel mechanism such as cgroups, namespaces, mounts, networking etc.
+* [udocker](https://github.com/indigo-dc/udocker)  
+A basic user tool to execute simple containers in batch or interactive systems without root privileges.
+* [Let Me Contain That For You](https://github.com/google/lmctfy)  
+LMCTFY is the open source version of Google’s container stack, which provides Linux application containers.
+* [cc-oci-runtime](https://github.com/01org/cc-oci-runtime)  
+Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.
 
 ## Sandboxes
 
@@ -127,6 +163,12 @@ Checkpoint/Restore In Userspace is a software tool for Linux operating system. U
 * [LXC-Web-Panel](https://lxc-webpanel.github.io/)  
 Web panel for LXC on Ubuntu.
 
+## Best practices
+* [The Twelve-Factor App](https://12factor.net/)  
+The twelve-factor app is a methodology for building software-as-a-service apps.
+* [Container Best Practices](http://docs.projectatomic.io/container-best-practices/)  
+A collaborative project to document container-based application architecture, creation and management from Project Atomic
+
 ## Security
 
 ### Tools
@@ -139,6 +181,8 @@ Open Source Vulnerability Analysis for your Containers.
 Custom AppArmor profile generator for docker containers.
 * [OpenSCAP](https://github.com/OpenSCAP/container-compliance)  
 The OpenSCAP ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement and enforcement of security baselines.
+* [drydock](https://github.com/zuBux/drydock)  
+Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.
 
 ### Links
 * [CIS Security Benchmarks](https://benchmarks.cisecurity.org/about/)
