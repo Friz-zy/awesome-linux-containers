@@ -80,7 +80,7 @@ RancherOS is a tiny Linux distro that runs the entire OS as Docker containers.
 * [Project Atomic](http://www.projectatomic.io/)  
 Project Atomic provides the best platform for your Linux Docker Kubernetes (LDK) application stack. Use immutable infrastructure to deploy and scale your containerized applications.
 * [Snappy Ubuntu Core](https://www.ubuntu.com/cloud/snappy)  
-https://github.com/01org/cc-oci-runtimeSnappy Ubuntu Core is the perfect system for large-scale cloud container deployments, bringing transactional updates to the world’s favourite container platform.
+Ubuntu Core is the perfect system for large-scale cloud container deployments, bringing transactional updates to the world’s favourite container platform.
 * [ResinOS](https://resinos.io/)  
 A host OS tailored for containers, designed for reliability, proven in production.
 * [Photon](https://github.com/vmware/photon)  
@@ -167,7 +167,7 @@ Web panel for LXC on Ubuntu.
 * [The Twelve-Factor App](https://12factor.net/)  
 The twelve-factor app is a methodology for building software-as-a-service apps.
 * [Container Best Practices](http://docs.projectatomic.io/container-best-practices/)  
-A collaborative project to document container-based application architecture, creation and management from Project Atomic
+A collaborative project to document container-based application architecture, creation and management from Project Atomic.
 
 ## Security
 
