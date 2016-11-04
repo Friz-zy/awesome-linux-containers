@@ -69,7 +69,7 @@ Rancher is a complete, open source platform for deploying and managing container
 Docker Swarm is native clustering for Docker.
 * [Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/)  
 Azure Container Service optimizes the configuration of popular open source tools and technologies specifically for Azure.
-* [CIAO](https://clearlinux.org/documentation/ciao-cluster-setup.html#id1)
+* [CIAO](https://clearlinux.org/documentation/ciao-cluster-setup.html#id1)  
  Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS.
 
 ## Operating Systems
@@ -183,6 +183,8 @@ Custom AppArmor profile generator for docker containers.
 The OpenSCAP ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement and enforcement of security baselines.
 * [drydock](https://github.com/zuBux/drydock)  
 Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.
+* [trireme](https://www.aporeto.com/trireme/)  
+Security by segmentation for Docker and Kubernetes.
 
 ### Links
 * [CIS Security Benchmarks](https://benchmarks.cisecurity.org/about/)
