@@ -187,6 +187,9 @@ The OpenSCAP ecosystem provides multiple tools to assist administrators and audi
 Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.
 * [trireme](https://www.aporeto.com/trireme/)  
 Security by segmentation for Docker and Kubernetes.
+* [goss](https://github.com/aelsabbahy/goss)  
+Quick and Easy server testing/validation.
+
 
 ### Links
 * [CIS Security Benchmarks](https://benchmarks.cisecurity.org/about/)
