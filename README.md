@@ -53,8 +53,6 @@ Run Docker containers on Google Cloud Platform, powered by Kubernetes. Google Co
 Unlimited PaaS and Container-Based IaaS in a Joint Cloud Solution for DevOps.
 * [Joyent](https://www.joyent.com/)  
 High-Performance Container-Native Infrastructure for Today's Demanding Real-Time Web and Mobile Applications.
-* [Kontena](http://kontena.io)  
-Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure. 
 * [Kubernetes](http://kubernetes.io/)  
 Manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops.
 * [Mesosphere](https://mesosphere.com/)  
@@ -72,7 +70,9 @@ Docker Swarm is native clustering for Docker.
 * [Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/)  
 Azure Container Service optimizes the configuration of popular open source tools and technologies specifically for Azure.
 * [CIAO](https://clearlinux.org/documentation/ciao-cluster-setup.html#id1)  
- Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS.
+ Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS. 
+ * [Kontena](http://kontena.io)  
+Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure. 
 
 ## Operating Systems
 * [CoreOs](https://coreos.com/)  
