@@ -53,6 +53,8 @@ Run Docker containers on Google Cloud Platform, powered by Kubernetes. Google Co
 Unlimited PaaS and Container-Based IaaS in a Joint Cloud Solution for DevOps.
 * [Joyent](https://www.joyent.com/)  
 High-Performance Container-Native Infrastructure for Today's Demanding Real-Time Web and Mobile Applications.
+* [Kontena](http://kontena.io)  
+Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure. 
 * [Kubernetes](http://kubernetes.io/)  
 Manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops.
 * [Mesosphere](https://mesosphere.com/)  
