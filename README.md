@@ -70,7 +70,9 @@ Docker Swarm is native clustering for Docker.
 * [Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/)  
 Azure Container Service optimizes the configuration of popular open source tools and technologies specifically for Azure.
 * [CIAO](https://clearlinux.org/documentation/ciao-cluster-setup.html#id1)  
- Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS.
+ Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS. 
+ * [Kontena](http://kontena.io)  
+Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure. 
 
 ## Operating Systems
 * [CoreOs](https://coreos.com/)  
