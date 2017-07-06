@@ -40,6 +40,8 @@ App Container (appc) is an open specification that defines several aspects of ho
 Systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system. If you write a container solution, please consider supporting the following interfaces.
 * [Nulecule Specification](https://github.com/projectatomic/atomicapp/tree/master/docs/spec)  
 Nulecule defines a pattern and model for packaging complex multi-container applications and services, referencing all their dependencies, including orchestration metadata in a container image for building, deploying, monitoring, and active management.
+* [Oracle microcontainer manifesto](https://blogs.oracle.com/developers/the-microcontainer-manifesto)  
+This is not a new container format, but simply a specific method for constructing a container that allows for better security and stability.
 
 ## Clouds
 
@@ -129,6 +131,8 @@ A basic user tool to execute simple containers in batch or interactive systems w
 LMCTFY is the open source version of Google’s container stack, which provides Linux application containers.
 * [cc-oci-runtime](https://github.com/01org/cc-oci-runtime)  
 Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.
+* [railcar](https://github.com/oracle/railcar)  
+Railcar is a rust implementation of the opencontainers initiative's runtime spec. It is similar to the reference implementation runc, but it is implemented completely in rust for memory safety without needing the overhead of a garbage collector or multiple threads.
 
 ## Sandboxes
 
