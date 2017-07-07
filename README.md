@@ -209,7 +209,7 @@ Quick and Easy server testing/validation.
 * [Understanding docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/)
 * [Update on Ubuntu Phone security issue](https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue/)
 * [Don't expose the Docker socket (not even to a container)](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
-* [RedHut Blog](http://rhelblog.redhat.com/?s=container&submit=Search)
+* [RedHat Blog](http://rhelblog.redhat.com/?s=container&submit=Search)
   - [Introduction to Linux Containers](https://access.redhat.com/articles/1353593)
   - [What’s Next for Containers? User Namespaces](http://rhelblog.redhat.com/2015/07/07/whats-next-for-containers-user-namespaces/#more-1004)
   - [Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters](http://rhelblog.redhat.com/2015/07/29/architecting-containers-part-1-user-space-vs-kernel-space/)
