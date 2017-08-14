@@ -47,8 +47,6 @@ This is not a new container format, but simply a specific method for constructin
 
 * [Amazon EC2 Container Service ](https://aws.amazon.com/ecs/)   
 Container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.
-* [Developer Cloud Platform](https://www.dotcloud.com/)  
-PaaS from Docker creators.
 * [Google Cloud Platform](https://cloud.google.com/container-engine/)  
 Run Docker containers on Google Cloud Platform, powered by Kubernetes. Google Container Engine actively schedules your containers, based on declared needs, on a managed cluster of virtual machines. 
 * [Jelastic](http://jelastic.com/)  
