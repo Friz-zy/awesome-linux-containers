@@ -93,6 +93,7 @@ The Clear Linux Project for Intel Architecture is a distribution built for vario
 CargOS is a new lightweight, open source, platform for Docker hosts that aims for speed, manageability and security. Releases are built for 64-bit Intel/AMD CPUs.
 * [OSv](http://osv.io/)  
 OSv is the open source operating system designed for the cloud. Built from the ground up for effortless deployment and management, with superior performance.
+* [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating systems that is optimized to run Docker. It made it dead easy use Docker on any Raspberry Pi. 
 
 ## Hypervisors
 
