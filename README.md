@@ -12,6 +12,7 @@
 * [Containers](#containers)
 * [Sandboxes](#sandboxes)
 * [Partial Access](#partial-access)
+* [Filesystem](#filesystem)
 * [Dashboard](#dashboard)
 * [Best practices](#best-practices)
 * [Security](#security)
@@ -75,6 +76,7 @@ Azure Container Service optimizes the configuration of popular open source tools
 Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure. 
 
 ## Operating Systems
+
 * [CoreOs](https://coreos.com/)  
 A lightweight Linux operating system designed for clustered deployments providing automation, security, and scalability for your most critical applications.
 * [RancherOS](http://rancher.com/rancher-os/)  
@@ -164,6 +166,15 @@ Python library to interface to low level linux features (inotify, fanotify, time
 Works with Linux namespaces through glibc with pure python.
 * [CRIU](https://criu.org/Main_Page)  
 Checkpoint/Restore In Userspace is a software tool for Linux operating system. Using this tool, you can freeze a running application (or part of it) and checkpoint it to a hard drive as a collection of files. CRIU integrated with Docker and LXC to implement Live migration of containers.
+* [Moby](https://github.com/moby/moby)  
+A "Lego set" of toolkit components for containers software created by Docker.
+
+## Filesystem
+
+* [container-diff](https://github.com/GoogleCloudPlatform/container-diff)  
+A tool for analyzing and comparing container images.
+* [buildah](https://github.com/projectatomic/buildah)  
+A tool which facilitates building OCI container images.
 
 ## Dashboard
 
@@ -171,6 +182,7 @@ Checkpoint/Restore In Userspace is a software tool for Linux operating system. U
 Web panel for LXC on Ubuntu.
 
 ## Best practices
+
 * [The Twelve-Factor App](https://12factor.net/)  
 The twelve-factor app is a methodology for building software-as-a-service apps.
 * [Container Best Practices](http://docs.projectatomic.io/container-best-practices/)  
