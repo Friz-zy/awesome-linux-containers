@@ -134,6 +134,8 @@ LMCTFY is the open source version of Google’s container stack, which provides 
 Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.
 * [railcar](https://github.com/oracle/railcar)  
 Railcar is a rust implementation of the opencontainers initiative's runtime spec. It is similar to the reference implementation runc, but it is implemented completely in rust for memory safety without needing the overhead of a garbage collector or multiple threads.
+* [Kata Containers](https://katacontainers.io/)  
+Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
 
 ## Sandboxes
 
