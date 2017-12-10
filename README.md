@@ -208,6 +208,8 @@ Drydock provides a flexible way of assessing the security of your Docker daemon 
 Security by segmentation for Docker and Kubernetes.
 * [goss](https://github.com/aelsabbahy/goss)  
 Quick and Easy server testing/validation.
+* [sockguard](https://github.com/buildkite/sockguard)  
+A proxy for docker.sock that enforces access control and isolated privileges.
 
 
 ### Links
@@ -229,6 +231,7 @@ Quick and Easy server testing/validation.
   - [Architecting Containers Part 2: Why the User Space Matters](http://rhelblog.redhat.com/2015/09/17/architecting-containers-part-2-why-the-user-space-matters-2/)
   - [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 * [Why you shouldn't use ENV variables for secret data](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/)
+* [When to use-Docker alternatives rkt and LXD](http://searchitoperations.techtarget.com/tip/When-to-use-Docker-alternatives-rkt-and-LXD)
 
 ### Levels of security problems
 
