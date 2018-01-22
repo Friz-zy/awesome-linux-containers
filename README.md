@@ -74,7 +74,6 @@ Azure Container Service optimizes the configuration of popular open source tools
  Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS. 
  * [Kontena](http://kontena.io)  
 Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure. 
-* [MultiDocker](https://github.com/marty90/multidocker) - Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
 
 ## Operating Systems
 
@@ -106,6 +105,7 @@ An open platform for distributed applications for developers and sysadmins. **St
 Daemon based on liblxc offering a REST API to manage LXC containers.
 * [OpenVZ](https://openvz.org/Main_Page)  
 OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
+* [MultiDocker](https://github.com/marty90/multidocker) - Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
 
 ## Containers
 
