@@ -179,6 +179,8 @@ A "Lego set" of toolkit components for containers software created by Docker.
 A tool for analyzing and comparing container images.
 * [buildah](https://github.com/projectatomic/buildah)  
 A tool which facilitates building OCI container images.
+* [skopeo](https://github.com/projectatomic/skopeo)  
+Work with remote images registries - retrieving information, images, signing content
 
 ## Dashboard
 
