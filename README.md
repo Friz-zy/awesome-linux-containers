@@ -153,6 +153,8 @@ Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates - a m
 xdg-app is a system for building, distributing and running sandboxed desktop applications on Linux.
 * [Bubblewrap](https://github.com/projectatomic/bubblewrap)  
 Run applications in a sandbox using Linux namespaces without root privileges, with user namespacing provided via setuid binary.
+* [singularity](https://github.com/singularityware/singularity)  
+Universal application containers for Linux.
 
 ## Partial Access
 
@@ -181,6 +183,8 @@ A tool for analyzing and comparing container images.
 A tool which facilitates building OCI container images.
 * [skopeo](https://github.com/projectatomic/skopeo)  
 Work with remote images registries - retrieving information, images, signing content
+* [img](https://github.com/jessfraz/img)  
+Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 
 ## Dashboard
 
