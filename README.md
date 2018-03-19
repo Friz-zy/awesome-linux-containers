@@ -89,7 +89,7 @@ Ubuntu Core is the perfect system for large-scale cloud container deployments, b
 A host OS tailored for containers, designed for reliability, proven in production.
 * [Photon](https://github.com/vmware/photon)  
 Photon OS is a minimal Linux container host designed to have a small footprint and tuned for VMware platforms. Photon is intended to invite collaboration around running containerized and Linux applications in a virtualized environment.
-* [Clear Linux Project](https://clearlinux.org/documentation/gs_getting_started.html)  
+* [Clear Linux Project](https://clearlinux.org/documentation/clear-linux/get-started)  
 The Clear Linux Project for Intel Architecture is a distribution built for various Cloud use cases.
 * [CargOS](https://cargos.io/)  
 CargOS is a new lightweight, open source, platform for Docker hosts that aims for speed, manageability and security. Releases are built for 64-bit Intel/AMD CPUs.
