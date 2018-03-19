@@ -95,7 +95,8 @@ The Clear Linux Project for Intel Architecture is a distribution built for vario
 CargOS is a new lightweight, open source, platform for Docker hosts that aims for speed, manageability and security. Releases are built for 64-bit Intel/AMD CPUs.
 * [OSv](http://osv.io/)  
 OSv is the open source operating system designed for the cloud. Built from the ground up for effortless deployment and management, with superior performance.
-* [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating systems that is optimized to run Docker. It made it dead easy use Docker on any Raspberry Pi. 
+* [HypriotOS](http://blog.hypriot.com/about/)  
+Minimal Debian-based operating systems that is optimized to run Docker. It made it dead easy use Docker on any Raspberry Pi. 
 
 ## Hypervisors
 
@@ -105,7 +106,7 @@ An open platform for distributed applications for developers and sysadmins. **St
 Daemon based on liblxc offering a REST API to manage LXC containers.
 * [OpenVZ](https://openvz.org/Main_Page)  
 OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
-* [MultiDocker](https://github.com/marty90/multidocker)
+* [MultiDocker](https://github.com/marty90/multidocker)  
 Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
 
 ## Containers
@@ -138,7 +139,7 @@ Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.
 Railcar is a rust implementation of the opencontainers initiative's runtime spec. It is similar to the reference implementation runc, but it is implemented completely in rust for memory safety without needing the overhead of a garbage collector or multiple threads.
 * [Kata Containers](https://katacontainers.io/)  
 Kata Containers is a new open source project building extremely lightweight virtual machines that seamlessly plug into the containers ecosystem.
-* [plash](https://github.com/ihucos/plash/)
+* [plash](https://github.com/ihucos/plash/)  
 Lightweight, rootless containers.
 
 ## Sandboxes
