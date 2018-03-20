@@ -62,7 +62,7 @@ The Mesosphere Datacenter Operating System (DCOS) is a new kind of operating sys
 OpenShift Origin is a distribution of [Kubernetes](http://kubernetes.io/) optimized for continuous application development and multi-tenant deployment. Origin adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.
 * [Warden](https://github.com/cloudfoundry/warden)  
 Manages isolated, ephemeral, and resource controlled environments. Part of Cloud Foundry - the open platform as a service project.
-* [Virtuozzo DevOps](https://virtuozzo.com/products/DevOps/)  
+* [Virtuozzo](https://virtuozzo.com)  
 A platform, built on Virtuozzo containers, that can be easily run on top of any bare-metal or virtual servers in any public or private cloud, to automate, optimize, and accelerate internal IT and development processes.
 * [Rancher](http://rancher.com/)  
 Rancher is a complete, open source platform for deploying and managing containers in production. It includes commercially-supported distributions of Kubernetes, Mesos, and Docker Swarm, making it easy to run containerized applications on any infrastructure.
