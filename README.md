@@ -73,7 +73,9 @@ Azure Container Service optimizes the configuration of popular open source tools
 * [CIAO](https://ciao-project.github.io/)  
  Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS. 
  * [Kontena](http://kontena.io)  
-Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure. 
+Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure.
+* [Hyper.sh](https://hyper.sh)  
+Serverless Container Platform.
 
 ## Operating Systems
 
