@@ -203,6 +203,8 @@ Whaler is designed to reverse engineer a Docker Image into the Dockerfile that c
 
 * [LXC-Web-Panel](https://lxc-webpanel.github.io/)  
 Web panel for LXC on Ubuntu.
+* [Liman](https://github.com/salihciftci/liman)  
+Basic docker monitoring web application.
 
 ## Best practices
 
