@@ -235,6 +235,8 @@ Quick and Easy server testing/validation.
 A proxy for docker.sock that enforces access control and isolated privileges.
 * [gvisor](https://github.com/google/gvisor)  
 gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
+* [docker-explorer](https://github.com/google/docker-explorer/)  
+A tool to help forensicate offline docker acquisitions.
 
 
 ### Links
