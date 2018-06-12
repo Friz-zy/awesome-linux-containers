@@ -196,6 +196,8 @@ Work with remote images registries - retrieving information, images, signing con
 Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 * [dgr](https://github.com/blablacar/dgr)  
 Command line utility designed to build and to configure at runtime App Containers Images (ACI) and App Container Pods (POD) based on convention over configuration.
+* [Whaler](https://github.com/P3GLEG/Whaler)  
+Whaler is designed to reverse engineer a Docker Image into the Dockerfile that created it.
 
 ## Dashboard
 
