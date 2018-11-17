@@ -46,6 +46,8 @@ This is not a new container format, but simply a specific method for constructin
 
 ## Clouds
 
+* [Alibaba Cloud Container Service](https://www.alibabacloud.com/fr/product/container-service)  
+Container Service is a high-performance and scalable container application management service that enables you to use Docker and Kubernetes to manage the lifecycle of containerized applications.
 * [Amazon EC2 Container Service ](https://aws.amazon.com/ecs/)   
 Container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.
 * [Google Cloud Platform](https://cloud.google.com/container-engine/)  
