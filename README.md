@@ -200,6 +200,10 @@ Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container im
 Command line utility designed to build and to configure at runtime App Containers Images (ACI) and App Container Pods (POD) based on convention over configuration.
 * [Whaler](https://github.com/P3GLEG/Whaler)  
 Whaler is designed to reverse engineer a Docker Image into the Dockerfile that created it.
+* [dive](https://github.com/wagoodman/dive)  
+A tool for exploring each layer in a docker image.
+* [go-containerregistry](https://github.com/google/go-containerregistry)  
+Go library and CLIs for working with container registries.
 
 ## Dashboard
 
