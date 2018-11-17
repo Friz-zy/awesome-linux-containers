@@ -46,8 +46,6 @@ This is not a new container format, but simply a specific method for constructin
 
 ## Clouds
 
-* [Alibaba Cloud Container Service](https://www.alibabacloud.com/fr/product/container-service)  
-Container Service is a high-performance and scalable container application management service that enables you to use Docker and Kubernetes to manage the lifecycle of containerized applications.
 * [Amazon EC2 Container Service ](https://aws.amazon.com/ecs/)   
 Container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.
 * [Google Cloud Platform](https://cloud.google.com/container-engine/)  
@@ -78,6 +76,8 @@ Azure Container Service optimizes the configuration of popular open source tools
 Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure.
 * [Hyper.sh](https://hyper.sh)  
 Serverless Container Platform.
+* [Alibaba Cloud Container Service](https://www.alibabacloud.com/fr/product/container-service)  
+Container Service is a high-performance and scalable container application management service that enables you to use Docker and Kubernetes to manage the lifecycle of containerized applications.
 
 ## Operating Systems
 
