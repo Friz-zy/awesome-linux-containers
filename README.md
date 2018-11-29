@@ -114,6 +114,8 @@ OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secu
 Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
 * [Lithos](https://github.com/tailhook/lithos/)  
 Lithos is a process supervisor and containerizer for running services. It is not intended to be system init, but rather tries to be a base tool to build container orchestration.
+* [containerd](https://containerd.io/)  
+A container runtime which can manage a complete container lifecycle - from image transfer/storage to container execution, supervision and networking.
 
 ## Containers
 
@@ -149,6 +151,10 @@ Kata Containers is a new open source project building extremely lightweight virt
 Lightweight, rootless containers.
 * [runv](https://github.com/hyperhq/runv)  
 Hypervisor-based (KVM, Xen, QEMU) Runtime for OCI. Security by isolation.
+* [podman](https://github.com/containers/libpod)  
+Full management of container lifecycle.
+* [firecracker](https://github.com/firecracker-microvm/firecracker)  
+Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers.
 
 ## Sandboxes
 
