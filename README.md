@@ -78,6 +78,8 @@ Kontena is a developer friendly, open source platform for orchestrating applicat
 Serverless Container Platform.
 * [Alibaba Cloud Container Service](https://www.alibabacloud.com/fr/product/container-service)  
 Container Service is a high-performance and scalable container application management service that enables you to use Docker and Kubernetes to manage the lifecycle of containerized applications.
+* [Nomad](https://www.nomadproject.io/)  
+ HashiCorp Nomad is a single binary that schedules applications and services on Linux, Windows, and Mac. It is an open source scheduler that uses a declarative job file for scheduling virtualized, containerized, and standalone applications.
 
 ## Operating Systems
 
