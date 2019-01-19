@@ -43,6 +43,8 @@ Systemd is a suite of basic building blocks for a Linux system. It provides a sy
 Nulecule defines a pattern and model for packaging complex multi-container applications and services, referencing all their dependencies, including orchestration metadata in a container image for building, deploying, monitoring, and active management.
 * [Oracle microcontainer manifesto](https://blogs.oracle.com/developers/the-microcontainer-manifesto)  
 This is not a new container format, but simply a specific method for constructing a container that allows for better security and stability.
+* [Cloud Native Application Bundle Specification](https://github.com/deislabs/cnab-spec)  
+A package format specification that describes a technology for bundling, installing, and managing distributed applications, that are by design, cloud agnostic.
 
 ## Clouds
 
