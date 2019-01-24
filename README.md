@@ -105,6 +105,8 @@ CargOS is a new lightweight, open source, platform for Docker hosts that aims fo
 OSv is the open source operating system designed for the cloud. Built from the ground up for effortless deployment and management, with superior performance.
 * [HypriotOS](http://blog.hypriot.com/about/)  
 Minimal Debian-based operating systems that is optimized to run Docker. It made it dead easy use Docker on any Raspberry Pi. 
+* [MCL](https://mcl.host)
+MCL (*Minimal Container Linux*) is a from scratch minimal Linux OS designed specifically to run containers. It has a small footprint of ~50MB and boots within seconds. It is currently optimized to run Docker.
 
 ## Hypervisors
 
