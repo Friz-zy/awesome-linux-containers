@@ -216,6 +216,8 @@ Whaler is designed to reverse engineer a Docker Image into the Dockerfile that c
 A tool for exploring each layer in a docker image.
 * [go-containerregistry](https://github.com/google/go-containerregistry)  
 Go library and CLIs for working with container registries.
+* [kaniko](https://github.com/GoogleContainerTools/kaniko)  
+kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
 
 ## Dashboard
 
