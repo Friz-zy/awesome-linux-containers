@@ -218,6 +218,8 @@ A tool for exploring each layer in a docker image.
 Go library and CLIs for working with container registries.
 * [kaniko](https://github.com/GoogleContainerTools/kaniko)  
 kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
+* [umoci](https://umo.ci/)
+umoci is a tool to manipulate OCI container images, and can be used as a rudimentary build tool.
 
 ## Dashboard
 
