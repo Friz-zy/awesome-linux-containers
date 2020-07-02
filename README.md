@@ -217,10 +217,11 @@ A tool for exploring each layer in a docker image.
 * [go-containerregistry](https://github.com/google/go-containerregistry)  
 Go library and CLIs for working with container registries.
 * [kaniko](https://github.com/GoogleContainerTools/kaniko)  
-kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
-* [umoci](https://umo.ci/)
-umoci is a tool to manipulate OCI container images, and can be used as a rudimentary build tool.
-* [docker pushrm](https://github.com/christian-korneck/docker-pushrm) is a Docker CLI plugin that that lets you push the README.md file from the current directory to a container registry. Supports Docker Hub, Quay and Harbor.
+Kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
+* [umoci](https://umo.ci/)  
+Umoci is a tool to manipulate OCI container images, and can be used as a rudimentary build tool.
+* [docker pushrm](https://github.com/christian-korneck/docker-pushrm)  
+A Docker CLI plugin that that lets you push the README.md file from the current directory to a container registry. Supports Docker Hub, Quay and Harbor.
 
 
 ## Dashboard
@@ -229,8 +230,8 @@ umoci is a tool to manipulate OCI container images, and can be used as a rudimen
 Web panel for LXC on Ubuntu.
 * [Liman](https://github.com/salihciftci/liman)  
 Basic docker monitoring web application.
-* [portainer](https://github.com/portainer/portainer)
-Lightweight Docker management UI
+* [portainer](https://github.com/portainer/portainer)  
+Lightweight Docker management UI.
 
 ## Best practices
 
