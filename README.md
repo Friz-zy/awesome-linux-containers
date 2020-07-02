@@ -220,6 +220,8 @@ Go library and CLIs for working with container registries.
 kaniko is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
 * [umoci](https://umo.ci/)
 umoci is a tool to manipulate OCI container images, and can be used as a rudimentary build tool.
+* [docker pushrm](https://github.com/christian-korneck/docker-pushrm) is a Docker CLI plugin that that lets you push the README.md file from the current directory to a container registry. Supports Docker Hub, Quay and Harbor.
+
 
 ## Dashboard
 
@@ -261,6 +263,7 @@ A proxy for docker.sock that enforces access control and isolated privileges.
 gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
 * [docker-explorer](https://github.com/google/docker-explorer/)  
 A tool to help forensicate offline docker acquisitions.
+
 
 
 ### Links
