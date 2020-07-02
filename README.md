@@ -227,6 +227,8 @@ umoci is a tool to manipulate OCI container images, and can be used as a rudimen
 Web panel for LXC on Ubuntu.
 * [Liman](https://github.com/salihciftci/liman)  
 Basic docker monitoring web application.
+* [portainer](https://github.com/portainer/portainer)
+Lightweight Docker management UI
 
 ## Best practices
 
