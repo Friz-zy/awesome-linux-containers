@@ -232,6 +232,8 @@ Web panel for LXC on Ubuntu.
 Basic docker monitoring web application.
 * [portainer](https://github.com/portainer/portainer)  
 Lightweight Docker management UI.
+* (swarmpit)[https://github.com/swarmpit/swarmpit]  
+Lightweight mobile-friendly Docker Swarm management UI.
 
 ## Best practices
 
@@ -264,8 +266,8 @@ A proxy for docker.sock that enforces access control and isolated privileges.
 gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
 * [docker-explorer](https://github.com/google/docker-explorer/)  
 A tool to help forensicate offline docker acquisitions.
-
-
+* (oci-seccomp-bpf-hook)[https://github.com/containers/oci-seccomp-bpf-hook]  
+OCI hook to trace syscalls and generate a seccomp profile.
 
 ### Links
 * [CIS Security Benchmarks](https://benchmarks.cisecurity.org/about/)
