@@ -74,10 +74,6 @@ Docker Swarm is native clustering for Docker.
 Azure Container Service optimizes the configuration of popular open source tools and technologies specifically for Azure.
 * [CIAO](https://ciao-project.github.io/)  
  Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS. 
- * [Kontena](http://kontena.io)  
-Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure.
-* [Hyper.sh](https://hyper.sh)  
-Serverless Container Platform.
 * [Alibaba Cloud Container Service](https://www.alibabacloud.com/fr/product/container-service)  
 Container Service is a high-performance and scalable container application management service that enables you to use Docker and Kubernetes to manage the lifecycle of containerized applications.
 * [Nomad](https://www.nomadproject.io/)  
