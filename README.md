@@ -68,7 +68,7 @@ Manages isolated, ephemeral, and resource controlled environments. Part of Cloud
 A platform, built on Virtuozzo containers, that can be easily run on top of any bare-metal or virtual servers in any public or private cloud, to automate, optimize, and accelerate internal IT and development processes.
 * [Rancher](http://rancher.com/)  
 Rancher is a complete, open source platform for deploying and managing containers in production. It includes commercially-supported distributions of Kubernetes, Mesos, and Docker Swarm, making it easy to run containerized applications on any infrastructure.
-* [Docker Swarm](https://docs.docker.com/swarm)  
+* [Docker Swarm](https://docs.docker.com/engine/swarm/)  
 Docker Swarm is native clustering for Docker.
 * [Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/)  
 Azure Container Service optimizes the configuration of popular open source tools and technologies specifically for Azure.
