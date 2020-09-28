@@ -93,7 +93,7 @@ Ubuntu Core is the perfect system for large-scale cloud container deployments, b
 A host OS tailored for containers, designed for reliability, proven in production.
 * [Photon](https://github.com/vmware/photon)  
 Photon OS is a minimal Linux container host designed to have a small footprint and tuned for VMware platforms. Photon is intended to invite collaboration around running containerized and Linux applications in a virtualized environment.
-* [Clear Linux Project](https://clearlinux.org/documentation/clear-linux/get-started)  
+* [Clear Linux Project](https://clearlinux.org)  
 The Clear Linux Project for Intel Architecture is a distribution built for various Cloud use cases.
 * [CargOS](https://cargos.io/)  
 CargOS is a new lightweight, open source, platform for Docker hosts that aims for speed, manageability and security. Releases are built for 64-bit Intel/AMD CPUs.
@@ -110,7 +110,7 @@ MCL (*Minimal Container Linux*) is a from scratch minimal Linux OS designed spec
 An open platform for distributed applications for developers and sysadmins. **Standard de facto**.
 * [LXD](https://github.com/lxc/lxd)  
 Daemon based on liblxc offering a REST API to manage LXC containers.
-* [OpenVZ](https://openvz.org/Main_Page)  
+* [OpenVZ](https://openvz.org/)  
 OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
 * [MultiDocker](https://github.com/marty90/multidocker)  
 Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
