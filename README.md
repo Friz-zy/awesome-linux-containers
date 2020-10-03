@@ -68,16 +68,12 @@ Manages isolated, ephemeral, and resource controlled environments. Part of Cloud
 A platform, built on Virtuozzo containers, that can be easily run on top of any bare-metal or virtual servers in any public or private cloud, to automate, optimize, and accelerate internal IT and development processes.
 * [Rancher](http://rancher.com/)  
 Rancher is a complete, open source platform for deploying and managing containers in production. It includes commercially-supported distributions of Kubernetes, Mesos, and Docker Swarm, making it easy to run containerized applications on any infrastructure.
-* [Docker Swarm](https://docs.docker.com/swarm)  
+* [Docker Swarm](https://docs.docker.com/engine/swarm/)  
 Docker Swarm is native clustering for Docker.
 * [Azure Container Service](https://azure.microsoft.com/en-us/services/container-service/)  
 Azure Container Service optimizes the configuration of popular open source tools and technologies specifically for Azure.
 * [CIAO](https://ciao-project.github.io/)  
  Cloud Integrated Advanced Orchestrator for Intel Clear Linux OS. 
- * [Kontena](http://kontena.io)  
-Kontena is a developer friendly, open source platform for orchestrating applications that are run on Docker containers. It simplifies deploying and running containerized applications on any infrastructure.
-* [Hyper.sh](https://hyper.sh)  
-Serverless Container Platform.
 * [Alibaba Cloud Container Service](https://www.alibabacloud.com/fr/product/container-service)  
 Container Service is a high-performance and scalable container application management service that enables you to use Docker and Kubernetes to manage the lifecycle of containerized applications.
 * [Nomad](https://www.nomadproject.io/)  
@@ -97,7 +93,7 @@ Ubuntu Core is the perfect system for large-scale cloud container deployments, b
 A host OS tailored for containers, designed for reliability, proven in production.
 * [Photon](https://github.com/vmware/photon)  
 Photon OS is a minimal Linux container host designed to have a small footprint and tuned for VMware platforms. Photon is intended to invite collaboration around running containerized and Linux applications in a virtualized environment.
-* [Clear Linux Project](https://clearlinux.org/documentation/clear-linux/get-started)  
+* [Clear Linux Project](https://clearlinux.org)  
 The Clear Linux Project for Intel Architecture is a distribution built for various Cloud use cases.
 * [CargOS](https://cargos.io/)  
 CargOS is a new lightweight, open source, platform for Docker hosts that aims for speed, manageability and security. Releases are built for 64-bit Intel/AMD CPUs.
@@ -114,7 +110,7 @@ MCL (*Minimal Container Linux*) is a from scratch minimal Linux OS designed spec
 An open platform for distributed applications for developers and sysadmins. **Standard de facto**.
 * [LXD](https://github.com/lxc/lxd)  
 Daemon based on liblxc offering a REST API to manage LXC containers.
-* [OpenVZ](https://openvz.org/Main_Page)  
+* [OpenVZ](https://openvz.org/)  
 OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
 * [MultiDocker](https://github.com/marty90/multidocker)  
 Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
