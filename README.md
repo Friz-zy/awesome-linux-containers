@@ -159,8 +159,6 @@ Full management of container lifecycle.
 Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers.
 * [sysbox](https://github.com/nestybox/sysbox)  
 Sysbox is a "runc" that creates secure (rootless) containers / pods that run not just microservices, but most workloads that run in VMs (e.g., systemd, Docker, and Kubernetes), seamlessly.
-* [railcar](https://github.com/oracle/railcar)  
-Deprecated rust implementation of the Open Containers Initiative oci-runtime. 
 * [youki](https://github.com/containers/youki)  
 A container runtime written in Rust.
 
