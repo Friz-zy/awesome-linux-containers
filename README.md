@@ -178,6 +178,8 @@ xdg-app is a system for building, distributing and running sandboxed desktop app
 Run applications in a sandbox using Linux namespaces without root privileges, with user namespacing provided via setuid binary.
 * [singularity](https://github.com/singularityware/singularity)  
 Universal application containers for Linux.
+* [Lxroot](https://github.com/parke/lxroot)  
+Lxroot is a flexible, lightweight, and safer alternative to chroot and/or Docker for non-root users on Linux.
 
 ## Partial Access
 
