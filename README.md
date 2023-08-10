@@ -99,8 +99,6 @@ Container Service is a high-performance and scalable container application manag
 A lightweight Linux operating system designed for clustered deployments providing automation, security, and scalability for your most critical applications.
 * [RancherOS](http://rancher.com/rancher-os/)  
 RancherOS is a tiny Linux distro that runs the entire OS as Docker containers.
-* [Project Atomic](http://www.projectatomic.io/)  
-Project Atomic provides the best platform for your Linux Docker Kubernetes (LDK) application stack. Use immutable infrastructure to deploy and scale your containerized applications.
 * [Snappy Ubuntu Core](https://www.ubuntu.com/cloud/snappy)  
 Ubuntu Core is the perfect system for large-scale cloud container deployments, bringing transactional updates to the world’s favourite container platform.
 * [ResinOS](https://resinos.io/)  
@@ -112,7 +110,7 @@ The Clear Linux Project for Intel Architecture is a distribution built for vario
 * [CargOS](https://cargos.io/)  
 CargOS is a new lightweight, open source, platform for Docker hosts that aims for speed, manageability and security. Releases are built for 64-bit Intel/AMD CPUs.
 * [OSv](http://osv.io/)  
-OSv is the open source operating system designed for the cloud. Built from the ground up for effortless deployment and management, with superior performance.
+OSv is the open source operating system designed for the cloud. Built frothe ground up for effortless deployment and management, with superior performance.
 * [HypriotOS](http://blog.hypriot.com/about/)  
 Minimal Debian-based operating systems that is optimized to run Docker. It made it dead easy use Docker on any Raspberry Pi. 
 * [MCL](https://mcl.host)  
