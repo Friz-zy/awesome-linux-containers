@@ -268,6 +268,8 @@ A collaborative project to document container-based application architecture, cr
 The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 * [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers/)  
 Open Source Vulnerability Analysis for your Containers.
+* [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
+* [Deepfence SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 * [bane](https://github.com/jfrazelle/bane)  
 Custom AppArmor profile generator for docker containers.
 * [OpenSCAP](https://github.com/OpenSCAP/container-compliance)  
