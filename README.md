@@ -259,6 +259,8 @@ Lightweight mobile-friendly Docker Swarm management UI.
 The twelve-factor app is a methodology for building software-as-a-service apps.
 * [Container Best Practices](http://docs.projectatomic.io/container-best-practices/)  
 A collaborative project to document container-based application architecture, creation and management from Project Atomic.
+* [EphemeralEnvironments.io](https://ephemeralenvironments.io/)  
+A series of industry best-practice guides for implementing ephemeral environments.
 
 ## Security
 
