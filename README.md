@@ -281,6 +281,8 @@ Quick and Easy server testing/validation.
 * [sockguard](https://github.com/buildkite/sockguard)  
 A proxy for docker.sock that enforces access control and isolated privileges.
 * [gvisor](https://github.com/google/gvisor)  
+* [nullsec-k8sscan](https://github.com/bad-antics/nullsec-k8sscan)  
+Kubernetes security scanner that audits cluster configurations, RBAC policies, network policies, pod security, and secrets management. Detects misconfigurations, vulnerabilities, and compliance issues.
 gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
 * [docker-explorer](https://github.com/google/docker-explorer/)  
 A tool to help forensicate offline docker acquisitions.
