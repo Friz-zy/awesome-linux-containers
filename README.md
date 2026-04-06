@@ -5,6 +5,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for container orchestration, automated infrastructure management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 * [About the Author](#About-the-Author)
