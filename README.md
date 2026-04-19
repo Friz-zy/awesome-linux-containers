@@ -80,6 +80,8 @@ OpenShift Origin is a distribution of [Kubernetes](http://kubernetes.io/) optimi
 Manages isolated, ephemeral, and resource controlled environments. Part of Cloud Foundry - the open platform as a service project.
 * [Virtuozzo](https://virtuozzo.com)  
 A platform, built on Virtuozzo containers, that can be easily run on top of any bare-metal or virtual servers in any public or private cloud, to automate, optimize, and accelerate internal IT and development processes.
+* [Qovery](https://www.qovery.com/)  
+Enterprise Kubernetes management platform for deploying containerized applications, databases, Helm charts, and Terraform modules on AWS EKS, GCP GKE, Azure AKS, and Scaleway. Includes Terraform provider, CLI, API, and [AI Agent Skill](https://github.com/Qovery/qovery-skills) for AI-assisted deployment.
 * [Rancher](http://rancher.com/)  
 Rancher is a complete, open source platform for deploying and managing containers in production. It includes commercially-supported distributions of Kubernetes, Mesos, and Docker Swarm, making it easy to run containerized applications on any infrastructure.
 * [Docker Swarm](https://docs.docker.com/engine/swarm/)  
