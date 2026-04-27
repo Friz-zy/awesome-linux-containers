@@ -252,6 +252,8 @@ Basic docker monitoring web application.
 Lightweight Docker management UI.
 * [swarmpit](https://github.com/swarmpit/swarmpit)  
 Lightweight mobile-friendly Docker Swarm management UI.
+* [KubeStellar Console](https://github.com/kubestellar/console)  
+Multi-cluster Kubernetes dashboard with real-time observability across containerized workloads.
 
 ## Best practices
 
