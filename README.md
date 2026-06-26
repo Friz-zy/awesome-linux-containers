@@ -95,6 +95,8 @@ Container Service is a high-performance and scalable container application manag
 
 ## Operating Systems
 
+* [METALOS](https://codeberg.org/DAFT-8/METALOS/)  
+A meta-Linux distribution based on musl libc and busybox. It provides "meta" (Makefiles for Express Target Automation) to install a Linux-based operating system on bare metal.
 * [CoreOs](https://coreos.com/)  
 A lightweight Linux operating system designed for clustered deployments providing automation, security, and scalability for your most critical applications.
 * [RancherOS](http://rancher.com/rancher-os/)  
@@ -135,6 +137,8 @@ A container runtime which can manage a complete container lifecycle - from image
 
 ## Containers
 
+* [Shellter](https://codeberg.org/DAFT-8/Shellter/)  
+Shellter is a Docker-like container manager written in Shell.
 * [runc](https://github.com/opencontainers/runc)  
 runc is a CLI tool for spawning and running containers according to the OCS specification.
 * [Bocker](https://github.com/p8952/bocker)  
