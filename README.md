@@ -232,6 +232,8 @@ Command line utility designed to build and to configure at runtime App Container
 Whaler is designed to reverse engineer a Docker Image into the Dockerfile that created it.
 * [dive](https://github.com/wagoodman/dive)  
 A tool for exploring each layer in a docker image.
+* [layerx](https://github.com/deveshctl/layerx)  
+Interactive TUI for exploring container image layers with file tree diffing, waste detection, and CI efficiency gating; supports Docker, Podman, and OCI archives.
 * [go-containerregistry](https://github.com/google/go-containerregistry)  
 Go library and CLIs for working with container registries.
 * [kaniko](https://github.com/GoogleContainerTools/kaniko)  
