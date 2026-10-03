@@ -240,6 +240,8 @@ Kaniko is a tool to build container images from a Dockerfile, inside a container
 Umoci is a tool to manipulate OCI container images, and can be used as a rudimentary build tool.
 * [docker pushrm](https://github.com/christian-korneck/docker-pushrm)  
 A Docker CLI plugin that that lets you push the README.md file from the current directory to a container registry. Supports Docker Hub, Quay and Harbor.
+* [LayerSmith](https://github.com/r0lfi/layersmith)  
+Build OCI container images through a self-hosted web UI with Docker or Podman, editable Containerfiles, digest-pinned base images, and air-gap exports.
 
 
 ## Dashboard
